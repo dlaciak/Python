@@ -11,8 +11,5 @@ Cube = 0
 for i in range(1,11):
     print('Sześćian liczby {} jest równy {}' .format(i,i ** 3))
 
-list = str(input('Podaj liste imion: '))
-for i in list.split():
-    print('hi ' + i)
 
 
