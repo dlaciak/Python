@@ -33,6 +33,6 @@ while 1:
     Guess = input()
     if Guess == RandomWord or Guess == 'Q' or Guess == 'q':
         break
-    
+
 if Guess == RandomWord:
     print('Brawo zgadłeś')
